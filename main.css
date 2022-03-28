@@ -1,0 +1,14 @@
+body {
+    margin: 0 auto;
+    background: #333;
+}
+h1 {
+    font-size: medium;
+    padding: 25pf;
+    border: double 5px blueviolet;
+}
+p{
+    font-size: xx-large;
+    font-weight: 500;
+    color: bisque;
+}
